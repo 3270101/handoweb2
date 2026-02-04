@@ -1,0 +1,78 @@
+# Hando 神美 - 汽車美容職人專屬管理系統
+# Robots.txt for https://hando.tw
+
+# 允許所有搜尋引擎爬蟲
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*.json$
+
+# Google 搜尋引擎
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+
+# Google 圖片搜尋
+User-agent: Googlebot-Image
+Allow: /
+
+# Bing 搜尋引擎
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+
+# Baidu 搜尋引擎（中國市場）
+User-agent: Baiduspider
+Allow: /
+Disallow: /api/
+
+# AI 爬蟲 - OpenAI GPTBot
+User-agent: GPTBot
+Allow: /
+Disallow: /api/
+
+# AI 爬蟲 - Google Bard/Gemini
+User-agent: Google-Extended
+Allow: /
+
+# AI 爬蟲 - Anthropic Claude
+User-agent: anthropic-ai
+Allow: /
+
+# AI 爬蟲 - Common Crawl
+User-agent: CCBot
+Allow: /
+
+# AI 爬蟲 - Cohere
+User-agent: cohere-ai
+Allow: /
+
+# AI 爬蟲 - Meta AI
+User-agent: FacebookBot
+Allow: /
+
+# AI 爬蟲 - Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# 社群媒體爬蟲
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+# 網站地圖
+Sitemap: https://hando.tw/sitemap.xml
+
+# 爬取延遲（秒）
+Crawl-delay: 1
+
+# 主機資訊
+Host: https://hando.tw
