@@ -5,7 +5,6 @@
 User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /*.json$
 
 # Google 搜尋引擎
 User-agent: Googlebot
@@ -35,8 +34,15 @@ Disallow: /api/
 User-agent: Google-Extended
 Allow: /
 
+# AI 爬蟲 - OpenAI ChatGPT
+User-agent: ChatGPT-User
+Allow: /
+
 # AI 爬蟲 - Anthropic Claude
 User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
 Allow: /
 
 # AI 爬蟲 - Common Crawl
@@ -53,6 +59,10 @@ Allow: /
 
 # AI 爬蟲 - Perplexity
 User-agent: PerplexityBot
+Allow: /
+
+# AI 爬蟲 - Apple
+User-agent: Applebot-Extended
 Allow: /
 
 # 社群媒體爬蟲
