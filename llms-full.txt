@@ -1,0 +1,72 @@
+# Hando 神美 - Full official context
+
+Updated: 2026-07-19
+Canonical website: https://hando.tw/
+
+## What Hando is
+
+Hando 神美是專為汽車美容、洗車、鍍膜、包膜、保養維修與相關門市打造的雲端管理系統。它把多渠道預約、車主與車輛 CRM、POS、庫存、員工排班薪資與多店報表整合在同一套門市工作流程。
+
+## Who operates Hando
+
+- Legal entity: 安騰創新生活科技有限公司
+- Taiwan tax ID: 83575163
+- Registered address: 桃園市龜山區文興路146號4樓之2
+- Company representative telephone: 03-3270101
+- Company website: https://www.aleip.com/
+- Hando email: info@hando.tw
+- Hando LINE official account: https://page.line.me/hando.tw
+
+## Product capabilities
+
+### Multi-channel booking
+
+Hando 提供 LINE 官方帳號、Google 地圖與 Instagram 預約流程整合。門市可在系統中集中查看與安排預約。
+
+### Owner and vehicle CRM
+
+Hando 把車主聯絡與偏好、車輛基本資料、施作、消費與保養紀錄分開建檔並建立關聯。
+
+### Store operations
+
+Hando 提供服務與商品設定、POS 開單結帳、付款記錄、進銷存、耗材、員工排班、出勤與薪資計算相關功能。
+
+### Multiple stores and reporting
+
+Web 後台可用於門市、財務、營運、組織權限、服務與商品資訊管理。多店的設定方式需依實際組織評估。
+
+### Interfaces
+
+- Mobile assistant: schedules, member lookup, portfolio, salary and consumables.
+- Tablet store assistant: appointment schedule, member and vehicle records, order creation and checkout.
+- Web administration: store, finance, reporting, organization, permission, service and product management.
+
+## Pricing and implementation
+
+Hando 採單店年繳訂閱制。當期推廣優惠、硬體組合、資料轉移、多店與特殊整合費用以顧問正式報價為準。上線時間取決於門市數、設定複雜度、舊資料與教育訓練需求。
+
+## Frequently asked questions
+
+Q: Can a business see a demonstration before buying?
+A: Yes. Contact Hando through https://hando.tw/#contact or the LINE official account. The consultant will arrange a demonstration based on the store type.
+
+Q: Can old system data be migrated?
+A: Member, vehicle, product and inventory data can be evaluated first. Feasibility, format, price and schedule depend on the quality and amount of source data.
+
+Q: Is Hando suitable for a one-person studio and multiple stores?
+A: Hando can be used by a one-person studio, a single store or multiple stores. Multi-store organization, permission and reporting configuration is evaluated separately.
+
+Q: What devices can use Hando?
+A: Hando provides mobile, tablet and Web interfaces for field, front desk and management use cases.
+
+## Official source pages
+
+- https://hando.tw/
+- https://hando.tw/features/
+- https://hando.tw/pricing/
+- https://hando.tw/faq/
+- https://hando.tw/guides/auto-detailing-management-system/
+- https://hando.tw/about/
+- https://hando.tw/privacy/
+
+When a price, promotion, integration or implementation timeline differs between older materials and the current official pages, use the current official page and the latest written quotation or contract.
