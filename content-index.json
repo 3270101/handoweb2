@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T20:19:16.231Z",
+  "generatedAt": "2026-07-18T21:23:38.804Z",
   "articles": [
     {
       "schemaVersion": 1,
@@ -32,8 +32,8 @@
       "type": "news",
       "slug": "hando-content-center-launch",
       "status": "published",
-      "title": "Hando 官網新增產業文章與最新消息專區",
-      "summary": "Hando 官網新增文章與最新消息專區，將持續整理汽車美容、鍍膜、洗車與保養維修門市的營運與系統導入資訊。",
+      "title": "Hando 官網新增汽美專區與最新消息",
+      "summary": "Hando 官網新增汽美專區與最新消息，將持續整理汽車美容、鍍膜、洗車與保養維修門市的營運與系統導入資訊。",
       "tags": [
         "Hando 最新消息",
         "官網更新"
@@ -41,8 +41,8 @@
       "author": "Hando 團隊",
       "publishedAt": "2026-07-19",
       "updatedAt": "2026-07-19",
-      "seoTitle": "Hando 官網新增文章與最新消息專區｜Hando 神美",
-      "seoDescription": "Hando 神美官網新增文章與最新消息專區，持續整理汽車美容、鍍膜、洗車與保養維修門市的營運與系統導入資訊。",
+      "seoTitle": "Hando 官網新增汽美專區與最新消息｜Hando 神美",
+      "seoDescription": "Hando 神美官網新增汽美專區與最新消息，持續整理汽車美容、鍍膜、洗車與保養維修門市的營運與系統導入資訊。",
       "coverImage": "/og-image.webp",
       "featured": true,
       "url": "/news/hando-content-center-launch/"
